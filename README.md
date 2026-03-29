@@ -14,8 +14,11 @@
 <a href="https://github.com/KrishnaKumar-ADS">
   <img src="https://img.shields.io/badge/GitHub-KrishnaKumar--ADS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/krishna-kumar-19">
+<a href="https://www.linkedin.com/in/krishna-kumar-19j0417/">
   <img src="https://img.shields.io/badge/LinkedIn-krishna--kumar--19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/krishna.kumar.19">
+  <img src="https://img.shields.io/badge/Instagram-krishna.kumar.19-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:kk9328781@gmail.com">
   <img src="https://img.shields.io/badge/Email-kk9328781@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -174,6 +177,14 @@ GitHub Repo
 
 <img src="https://github-profile-trophy.vercel.app/?username=KrishnaKumar-ADS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
+</div>
+
+---
+
+## ⚔️ LeetCode Stats
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/KrishnaKumar1719?theme=dark&font=Fira+Code&ext=heatmap" />
 </div>
 
 ---
