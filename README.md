@@ -129,7 +129,6 @@ GitHub Repo
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-
 ### 🚀 MLOps & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -183,13 +182,25 @@ GitHub Repo
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
+## 🟡 Pac-Man Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/pacman.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/KrishnaKumar-ADS/KrishnaKumar-ADS/output/pacman-dark.svg" />
 </picture>
 </div>
 
