@@ -1,11 +1,10 @@
-name: Generate Animations
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# ✅ Fix: Grant write permissions to the workflow
 permissions:
   contents: write
 
@@ -22,14 +21,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Generate Pac-Man SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: KrishnaKumar-ADS
-          outputs: |
-            dist/pacman.svg?renderer=pacman
-            dist/pacman-dark.svg?renderer=pacman&palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
