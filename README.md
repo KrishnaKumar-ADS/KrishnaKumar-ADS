@@ -14,7 +14,7 @@
 <!--                  ANIMATED TYPING                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&random=false&width=750&height=55&lines=Building+Production-Grade+AI+Systems;LLM+%2B+RAG+%2B+Graph+AI+Engineer;Real-Time+ML+Pipelines+at+Scale;Multimodal+Deep+Learning+Researcher;Vector+DB+%2B+Graph+DB+Specialist;Data+Team+Lead+%40+Saarthi.ai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&random=false&width=750&height=55&lines=Building+Production-Grade+AI+Systems;LLM+%2B+RAG+%2B+Graph+AI+Engineer;Agentic+AI+%2B+Multi-Agent+Orchestration;Real-Time+ML+Pipelines+at+Scale;Multimodal+Deep+Learning+Researcher;Vector+DB+%2B+Graph+DB+Specialist;Data+Team+Lead+%40+Saarthi.ai" alt="Typing SVG" />
 
 <br/>
 
@@ -69,6 +69,7 @@
 
 <br/>
 
+<!-- FIX: Replaced broken github-readme-stats with a more reliable embed + added cache_seconds=86400 -->
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -86,6 +87,7 @@ class KrishnaKumar:
 
     passion    = [
         "Generative AI",
+        "Agentic AI & Multi-Agent Systems",
         "LLM + RAG Systems",
         "Multimodal Deep Learning",
         "Graph AI & Vector DBs",
@@ -103,13 +105,12 @@ class KrishnaKumar:
 </td>
 <td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrishnaKumar-ADS&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=7c3aed&text_color=e9d5ff&border_radius=15&cache_seconds=1800" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishnaKumar-ADS&theme=radical" width="100%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KrishnaKumar-ADS&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=9ca3af&cache_seconds=1800" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KrishnaKumar-ADS&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=9ca3af" width="100%"/>
+<!-- FIX: Removed duplicate streak widget; keeping only the demolab one (more stable) -->
+<img src="https://streak-stats.demolab.com?user=KrishnaKumar-ADS&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=9ca3af&cache_seconds=86400" width="100%"/>
 
 </td>
 </tr>
@@ -165,24 +166,27 @@ class KrishnaKumar:
 
 <br/>
 
+<!-- FIX: Removed pinned repo cards — they pointed to repos that don't exist yet           -->
+<!--       (ai-codebase-intelligence, recsys-system) causing 404 broken image icons.       -->
+<!--       Once you create those repos on GitHub, add the cards back with the lines below: -->
+<!--                                                                                        -->
+<!--   <a href="https://github.com/KrishnaKumar-ADS/ai-codebase-intelligence">             -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/                         -->
+<!--       ?username=KrishnaKumar-ADS&repo=ai-codebase-intelligence                        -->
+<!--       &theme=radical&hide_border=true&bg_color=0d1117                                 -->
+<!--       &title_color=c084fc&icon_color=7c3aed&text_color=e9d5ff&border_radius=15"/>     -->
+<!--   </a>                                                                                 -->
+<!--   (same pattern for recsys-system)                                                    -->
+
 <div align="center">
-
-<a href="https://github.com/KrishnaKumar-ADS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKumar-ADS&repo=ai-codebase-intelligence&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=7c3aed&text_color=e9d5ff&border_radius=15" />
-</a>
-<a href="https://github.com/KrishnaKumar-ADS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKumar-ADS&repo=recsys-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=7c3aed&text_color=e9d5ff&border_radius=15" />
-</a>
-
-</div>
-
-<br/>
 
 | &nbsp; | Project | What it does | Stack |
 |:---:|:---|:---|:---:|
-| 🔍 | **[AI Codebase Intelligence](https://github.com/KrishnaKumar-ADS)** | RAG over GitHub repos — AST parsing → Gemini embeddings → Qdrant + Neo4j hybrid retrieval → Multi-LLM router (Gemini/DeepSeek/OpenRouter). Real-time graph viz via D3.js | `FastAPI` `Qdrant` `Neo4j` `LangChain` `Next.js` `Celery` `Docker` |
-| 🎬 | **[Real-Time RecSys](https://github.com/KrishnaKumar-ADS)** | SASRec Transformer → FAISS ANN → LightGBM Ranker → Thompson Sampling. 20%+ NDCG gain. Sub-100ms latency. Full MLOps | `PyTorch` `FAISS` `LightGBM` `FastAPI` `Feast` `MLflow` |
+| 🔍 | **[AI Codebase Intelligence](https://github.com/KrishnaKumar-ADS/ai-codebase-intelligence)** | RAG over GitHub repos — AST parsing → Gemini embeddings → Qdrant + Neo4j hybrid retrieval → Multi-LLM router (Gemini/DeepSeek/OpenRouter). Real-time graph viz via D3.js | `FastAPI` `Qdrant` `Neo4j` `LangChain` `Next.js` `Celery` `Docker` |
+| 🎬 | **[Real-Time RecSys](https://github.com/KrishnaKumar-ADS/recsys-system)** | SASRec Transformer → FAISS ANN → LightGBM Ranker → Thompson Sampling. 20%+ NDCG gain. Sub-100ms latency. Full MLOps | `PyTorch` `FAISS` `LightGBM` `FastAPI` `Feast` `MLflow` |
 | 🎭 | **[Multimodal Sarcasm Detection](https://github.com/KrishnaKumar-ADS)** | RoBERTa + HuBERT + FFT features + ResNet-50 fused via GATv2 heterogeneous graph. **81.73% accuracy** on MUStARD (+3.85% over SOTA) | `PyTorch` `PyG` `HuggingFace` `OpenCV` |
+
+</div>
 
 ---
 
@@ -257,6 +261,17 @@ GitHub_Repo  ──►  AST_Parser(1000+ files)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+**🦾 Agentic AI**
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7c3aed?style=for-the-badge&logoColor=white)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-4c1d95?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-02A86D?style=for-the-badge&logoColor=white)
+![ReAct](https://img.shields.io/badge/ReAct%20Agents-EE4C2C?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Protocol-D97757?style=for-the-badge&logoColor=white)
+
 **✨ Generative AI**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -309,9 +324,6 @@ GitHub_Repo  ──►  AST_Parser(1000+ files)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrishnaKumar-ADS&theme=radical" width="32%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishnaKumar-ADS&theme=radical" width="32%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KrishnaKumar-ADS&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 
 </div>
 
