@@ -140,13 +140,13 @@ class KrishnaKumar:
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🧠  DATA TEAM LEAD  ·  SAARTHI.AI  ·  JAN 2026 – PRESENT      ║
-║      AI Knowledge Pipeline · 800–1000+ Students                 ║
+║  🧠  DATA TEAM LEAD  ·  SAARTHI.AI  ·  JAN 2026 – PRESENT        ║
+║      AI Knowledge Pipeline · 800–1000+ Students                  ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  ✅  5-Stage Pipeline: OCR → Math → Concepts → RAG JSON         ║
-║  📈  Content Quality    +40% │ Hallucination      -30%          ║
-║  🎯  QA Accuracy        +25% │ Processing Time    -35%          ║
-║  🚀  Scaling to multiple colleges across India                  ║
+║  ✅  5-Stage Pipeline: OCR → Math → Concepts → RAG JSON          ║
+║  📈  Content Quality    +40% │ Hallucination      -30%           ║
+║  🎯  QA Accuracy        +25% │ Processing Time    -35%           ║
+║  🚀  Scaling to multiple colleges across India                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
